@@ -89,4 +89,4 @@ The project includes:
 
 ## Author
 
-Ahmed Anuf
+Mansoor Manar Ahmed Anuf
