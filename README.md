@@ -54,6 +54,9 @@ Used for:
 
 <img width="890" height="682" alt="Screenshot 2026-04-13 165022" src="https://github.com/user-attachments/assets/9b43e846-df6f-4f64-9b46-786dcd32b0a1" />
 
+Ranking Evolution the whole Turbo hybrid Era
+<img width="510" height="417" alt="image" src="https://github.com/user-attachments/assets/9d39ad80-c2d5-4f30-9a48-e7d9b4ba7fe1" />
+
 
 ## Technologies Used
 
