@@ -52,6 +52,9 @@ Used for:
 - Renault remained lowest overall but showed occasional late-season improvements.
 - Ranking outcomes depend heavily on the model used.
 
+<img width="890" height="682" alt="Screenshot 2026-04-13 165022" src="https://github.com/user-attachments/assets/9b43e846-df6f-4f64-9b46-786dcd32b0a1" />
+
+
 ## Technologies Used
 
 - Python
